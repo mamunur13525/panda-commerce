@@ -1,0 +1,31 @@
+
+nav{
+	padding:20px !important;
+}
+.container{
+	margin-bottom:40px;
+}
+.carousel-inner{
+	background:#FEEAE9;
+	padding:20px 30px;
+}
+.orange-color{
+	color:#FF277C;
+	font-weight:bold;
+}
+.btn{
+	background-image:linear-gradient(to bottom,#FF277C,#ff6ba5);
+	border:none;
+	border-radius: 8px !important;
+	padding:7px 17px;
+}
+.carousel-indicators li{
+	
+	height:3px!important;
+	background-color:#925757!important;
+}
+.carousel-indicators .active{
+	height:6px !important;
+}
+
+
