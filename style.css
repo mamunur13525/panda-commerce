@@ -5,6 +5,9 @@ nav{
 .container{
 	margin-bottom:40px;
 }
+.container h1{
+	margin-bottom:20px;
+}
 .carousel-inner{
 	background:#FEEAE9;
 	padding:20px 30px;
@@ -22,10 +25,44 @@ nav{
 .carousel-indicators li{
 	
 	height:3px!important;
-	background-color:#925757!important;
+	background-color:#FF277C!important;
 }
 .carousel-indicators .active{
 	height:6px !important;
 }
-
+.w-25{
+	width:40%!important;
+}
+.sc-bg{
+	color: white;
+    background-image: linear-gradient(to left,#e6b883,#ff9217);
+    padding: 8px 30px;
+    border-radius: 10px;
+	cursor:pointer;
+}
+.sc-bg h1{
+	font-weight: bold;
+}
+.cat2{
+	background-image: linear-gradient(to bottom,#FF277C,#ff6ba5);
+	color: white;
+    padding: 8px 30px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.cat3{
+	color: white;
+    background-image: linear-gradient(to left,#8386e6,#1b17ff);
+    padding: 8px 30px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.card{
+	border:none;
+	box-shadow:5px 5px 10px lightgray;
+}
+.card-footer{
+	border-top:none;
+	background-color: rgba(0,0,0,0.04);
+}
 
