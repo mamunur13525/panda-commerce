@@ -65,21 +65,13 @@ nav{
 	border-top:none;
 	background-color: rgba(0,0,0,0.04);
 }
-.footer .text-center h1{
-	text-transform: uppercase;
-	font-weight:bold;
-}
-.footer .container .row .btn{
-	color:white;
-	border-radius:0px 5px 5px 0px!important;
-	font-weight:bold;
-	padding:20px inherit;
-}
-.footer .container .row{
+#subscribe{
 	background:#FEEAE9;
-	padding:40px;
-	border-radius: 5px;
+	height:300px;
 }
+
+
+
 .lead{
 	color: #00000082;
 }
